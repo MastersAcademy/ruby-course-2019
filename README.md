@@ -1,5 +1,5 @@
-# ruby-course-2018
-Ruby Course 2018-2019
+# ruby-course-2019
+Ruby Course 2019-2020
 
 Terms and conditions
 --------------------
