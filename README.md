@@ -3,7 +3,7 @@ Ruby Course 2019-2020
 
 Terms and conditions
 --------------------
- * This document identifies and declares what Ruby courses are taking at Masters Academy in 2020 - 2020.
+ * This document identifies and declares what Ruby courses are taking at Masters Academy in 2019 - 2020.
  * This course is hosted by Masters Academy, on a voluntary basis with a donation to the account of the school for children with visual impairments.
  * The purpose of the courses is to assist stakeholders in learning the Ruby programming language and the RubyOnRails framework and related technologies.
  * The courses are a voluntary educational initiative that aims to provide useful information in a way that is convenient for mentors and students, with a focus on self-motivation, two-way curiosity, bilateral interest and experience sharing.
