@@ -1,7 +1,7 @@
 #### THE LIST WILL BE EXPANDED
 
 ## YouTube channel (Screencasts)
-###### https://goo.gl/8Hr4Ma
+###### https://www.youtube.com/playlist?list=PL7Tk1QIFIqKo-i3byF0nUPxby2ocb2Kz_
 
 ## Links
 ###### https://www.codewars.com/ - helps to stay fit and not lose practical skills.
