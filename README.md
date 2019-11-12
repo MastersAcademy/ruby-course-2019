@@ -45,18 +45,24 @@ Terms and conditions
 
 # Lesson #3 (12/11/2019, Lection)
 ### TOPIC: Objects
-### Mentor: Vlad Mokosii
-### Assistance: Yurii Rudenko
+### Mentor: Yurii Rudenko
+### Assistance: Sviat Safronov, Volodymyr Kravchenko
 ### Agenda:
 * Iterators
 * Hash key object requirements
 * Enumerable module mixin
 * Everything is an object
 * Flexible syntax, several ways to do something
+
+# Lesson #4 (19/11/2019, Lection)
+### TOPIC: Objects
+### Mentor: Sviat Safronov
+### Assistance: Yurii Rudenko
+### Agenda:
 * Extending existing classes class_eval, define_method
 * Changing existing objects(instance_eval). Eigenclasses. Singleton methods.
 
-# Lesson #4 (19/11/2019, Lection)
+# Lesson #5 (26/11/2019, Lection)
 ### TOPIC: ActiveRecord
 ### Mentor: Valerii Stadnyk
 ### Assistance: Yurii Rudenko
@@ -67,17 +73,17 @@ Terms and conditions
 * models
 * rake tasks
 
-# Lesson #5 (26/11/2019, Workshop)
+# Lesson #6 (03/12/2019, Workshop)
 ### TOPIC: ActiveRecord
 ### Mentor: Valerii Stadnyk
 ### Assistance: Serhii Ovcharenko, Yurii Rudenko
 
-# Lesson #6 (03/12/2019, Workshop)
+# Lesson #7 (10/12/2019, Workshop)
 ### TOPIC: Rack
 ### Mentor: Valerii Stadnyk
 ### Assistance: Serhii Ovcharenko, Yurii Rudenko
 
-# Lesson #7 (10/11/2019, Lection)
+# Lesson #8 (17/12/2019, Lection)
 ### TOPIC: Rails
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Yurii Rudenko
@@ -97,17 +103,17 @@ Terms and conditions
 * Rescue in controllers
 * Testing routing and controllers
 
-# Lesson #8 (17/12/2019, Workshop)
-### TOPIC: Rails
-### Mentor: Serhii Ovcharenko
-### Assistance: Valerii Stadnyk, Yurii Rudenko
-
 # Lesson #9 (21/01/2020, Workshop)
 ### TOPIC: Rails
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Valerii Stadnyk, Yurii Rudenko
 
-# Lesson #10 (28/01/2020, Lection)
+# Lesson #10 (28/01/2020, Workshop)
+### TOPIC: Rails
+### Mentor: Serhii Ovcharenko
+### Assistance: Valerii Stadnyk, Yurii Rudenko
+
+# Lesson #11 (04/02/2020, Lection)
 ### TOPIC: API
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Yurii Rudenko
@@ -116,17 +122,17 @@ Terms and conditions
 * Grape
 * Swagger
 
-# Lesson #11 (04/02/2020, Workshop)
-### TOPIC: API
-### Mentor: Serhii Ovcharenko
-### Assistance: Yurii Rudenko
-
 # Lesson #12 (11/02/2020, Workshop)
 ### TOPIC: API
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Yurii Rudenko
 
-# Lesson #13 (18/02/2020, Lection)
+# Lesson #13 (18/02/2020, Workshop)
+### TOPIC: API
+### Mentor: Serhii Ovcharenko
+### Assistance: Yurii Rudenko
+
+# Lesson #14 (25/02/2020, Lection)
 ### TOPIC: Exceptions
 ### Mentor: Valerii Stadnyk
 ### Assistance: Yurii Rudenko
@@ -137,7 +143,7 @@ Terms and conditions
 * Usage of exceptions and intelligent handling
 * Exceptions hierarchy: http://rubylearning.com/images/exception.jpg
 
-# Lesson #14 (25/02/2020, Lection)
+# Lesson #15 (03/03/2020, Lection)
 ### TOPIC: Tests
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Sviat Safronov
@@ -146,7 +152,7 @@ Terms and conditions
 * Capybara
 * Additional info
 
-# Lesson #15 (03/03/2020, Workshop)
+# Lesson #16 (10/03/2020, Workshop)
 ### TOPIC: Functional Ruby
 ### Mentor: Volodymyr Kravchenko
 ### Assistance: Yurii Rudenko
@@ -157,7 +163,7 @@ Terms and conditions
 * The power of lambda
 * WORKSHOP
 
-# Lesson #16 (10/03/2020, Workshop)
+# Lesson #17 (17/03/2020, Workshop)
 ### TOPIC: Multi-threading
 ### Mentor: Serhii Ovcharenko
 ### Assistance: Dmytro Leschenko
@@ -170,7 +176,7 @@ Terms and conditions
 * https://www.igvita.com/2010/03/22/untangling-evented-code-with-ruby-fibers/
 * WORKSHOP
 
-# Lesson #17 (17/03/2020, Workshop)
+# Lesson #18 (24/03/2020, Workshop)
 ### TOPIC: Performance
 ### Mentor: Dmytro Leschenko
 ### Assistance: Serhii Ovcharenko
@@ -182,7 +188,7 @@ Terms and conditions
 * WORKSHOP
 
 
-# Lesson #18 (24/03/2020, Lection)
+# Lesson #19 (31/03/2020, Lection)
 ### TOPIC: Security
 ### Mentor: Yurii Rudenko
 ### Assistance: Sviat Safronov
