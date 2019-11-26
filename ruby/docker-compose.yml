@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ruby:
+    container_name: ruby
+    build: .
+    volumes:
+      - .:/app:rw
+    tty: true
+    stdin_open: true
